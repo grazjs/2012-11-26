@@ -1,0 +1,24 @@
+{
+  "name": "serveStatic",
+  "version": "0.0.0",
+  "description": "very simple static file server",
+  "main": "serveStatic.js",
+  "bin": {
+    "serveStatic": "cli.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test"
+  },
+  "repository": "",
+  "author": "Bonuspunkt",
+  "license": "UNLICENSE",
+  "dependencies": {
+    "mime": "~1.2.7"
+  },
+  "devDependencies": {
+    "tap": "~0.3.2"
+  }
+}

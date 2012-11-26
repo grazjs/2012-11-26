@@ -1,0 +1,15 @@
+{
+  "name": "webchat",
+  "version": "0.0.0",
+  "description": "simple webchat with eventsource",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"This module is untested\" && exit 1",
+    "start": "node cli.js"
+  },
+  "author": "Bonuspunkt",
+  "license": "UNLICENSE",
+  "dependencies": {
+    "mime": "~1.2.7"
+  }
+}

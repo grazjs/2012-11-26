@@ -1,0 +1,4 @@
+cd serveStatic
+npm link
+cd ../webchat
+npm link serveStatic
