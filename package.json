@@ -1,0 +1,13 @@
+{
+  "name": "graz.js_2012-11-26",
+  "version": "0.0.0",
+  "dependencies": {
+    "send": "~0.1.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "exit 1"
+  },
+  "license": "UNLICENCE"
+}
