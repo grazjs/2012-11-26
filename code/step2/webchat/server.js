@@ -1,6 +1,6 @@
 var http = require('http');
 var path = require('path');
-var serveStatic = require('./serveStatic');
+var serveStatic = require('serveStatic');
 
 var eventSourceHandler = require('./eventSource')();
 var wwwRoot = path.resolve(__dirname, 'wwwRoot/');
